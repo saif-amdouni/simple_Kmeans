@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Simple Kmeans 
-simple python implementation of the Kmeans algorithme
-this implementation assumes that data is 2-Dimensional and calculates centers based on euclidean distance
+* simple python implementation of the Kmeans algorithme
+* this implementation assumes that data is 2-Dimensional and calculates centers based on euclidean distance
 
 
 <!-- GETTING STARTED -->
